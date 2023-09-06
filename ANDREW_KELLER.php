@@ -1,5 +1,5 @@
 <?php
-
+	/*this comment was added in testingmerging branch*/
 	$name = 'Andrew Keller';
 	$picture = "images/profile.jpg";
 	$desiredJobTitle = "Business Analyst";
